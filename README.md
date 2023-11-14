@@ -1,2 +1,2 @@
 # ProgettoLabSistemiOperativi
-Here you can find my final project for the lab part of Operatig System course at University of Pisa. 
+Here you can find my final project for the lab part of Operating System course at University of Pisa. 
